@@ -10,7 +10,7 @@
   <img width="30%" src="https://user-images.githubusercontent.com/77471641/106565943-f077eb00-6572-11eb-912e-7feb2d7553bd.gif" />
 </p>
 <p align="center">
-  ☕ Wanna chat? 👉 @hksoftcorn.cial on Instagram
+  ☕ Wanna chat? 👉 <a href="https://www.instagram.com/hksoftcorn.cial/">@hksoftcorn.cial</a> on Instagram
   <br>
 </p>
 
