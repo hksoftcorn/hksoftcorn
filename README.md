@@ -1,4 +1,5 @@
-### Hi there 👋
+
+
 <p align="center">
   👋 Hi! I am learning dev for being a SW engineer. <br>
   My current work focuses on enabling my programming skills <br>
