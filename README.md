@@ -1,4 +1,13 @@
 ### Hi there 👋
+<p align="center">
+  👋 Hi! I am learning dev for being a SW engineer. <br>
+  My current work focuses on enabling my programming skills <br>
+  grow up for doing something awesome <br>
+  with you guys on someday ✨
+</p>
+<p align="center">
+  <img width="30%" src="https://user-images.githubusercontent.com/77471641/106565943-f077eb00-6572-11eb-912e-7feb2d7553bd.gif" />
+</p>
 
 ![gif](https://user-images.githubusercontent.com/77471641/106565943-f077eb00-6572-11eb-912e-7feb2d7553bd.gif)
 
