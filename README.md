@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  👋 Hi! I am learning dev for being a SW engineer. <br>
+  👋 Hi! I am learning dev for being a good SW engineer. <br>
   My current work focuses on enabling my programming skills <br>
   grow up for doing something awesome <br>
   with you guys on someday ✨
