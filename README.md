@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://user-images.githubusercontent.com/77471641/106565943-f077eb00-6572-11eb-912e-7feb2d7553bd.gif
+![gif](https://user-images.githubusercontent.com/77471641/106565943-f077eb00-6572-11eb-912e-7feb2d7553bd.gif)
 
 [![Wongi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hksoftcorn&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
