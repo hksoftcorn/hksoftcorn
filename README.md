@@ -12,6 +12,8 @@
 <p align="center">
   ☕ Wanna chat? 👉 <a href="https://www.instagram.com/hksoftcorn.cial/">@hksoftcorn.cial</a> on Instagram
   <br>
+  📫 Here're my articles 👉<a href="https://medium.com/acenedev">AcneDev</a> on Medium
+  <br>
 </p>
 
 <hr>
