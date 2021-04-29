@@ -14,6 +14,8 @@
   <br>
   📫 Here're my articles 👉<a href="https://medium.com/acenedev">AcneDev</a> on Medium
   <br>
+  📌 "But he knows the way that I take; when he has tested me, I will come forth as gold " - Job 23:10
+  <br>
 </p>
 
 <hr>
