@@ -16,6 +16,8 @@
   <br>
   📌 "But he knows the way that I take; when he has tested me, I will come forth as gold " - Job 23:10
   <br>
+  <br>
+  "A reel change occurs in a movie and the movie goes on without the audience ever knowing"
 </p>
 
 <hr>
