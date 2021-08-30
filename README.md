@@ -21,6 +21,8 @@
   <br>
   my first pjt - <a href="https://offwhitepaper.netlify.app/">offwhitepaper</a>, which is movie recommendation
 and community site (using TMDB Api) 🤗
+  <br>
+  and second pjt - booktory, which is a video meeting platform for readers
 </p>
 
 <hr>
